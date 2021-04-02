@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginApplication</string>
+    <string name="submit">SUBMIT</string>
+    <string name="enter_password">Enter password:</string>
+    <string name="login_application">LOGIN APPLICATION</string>
+    <string name="enter_username">Enter username:</string>
+    <string name="welcome_to_login_page">Welcome to Login Page</string>
+    <string name="username2">Enter Username</string>
+    <string name="enter_password_2">Enter Password</string>
+    <string name="submit2">Submit</string>
+</resources>
